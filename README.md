@@ -1,2 +1,3 @@
 # doc-images
-This repo contains images for doc
+This public repo contains images for doc and other sites of phoenix code.
+
